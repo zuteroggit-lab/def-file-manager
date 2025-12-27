@@ -5,5 +5,5 @@
 ![Главное окно](docs/screenshot-main.png)
 
 
-![Release](https://img.shields.io/badge/version-1.0-final-blue)
+![Release](https://img.shields.io/badge/version-1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
