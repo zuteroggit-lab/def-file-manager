@@ -1,0 +1,33 @@
+{
+  "name": "root",
+  "type": "folder",
+  "children": [
+    {
+      "name": "docs",
+      "type": "folder",
+      "children": [
+        {
+          "name": "readme.txt",
+          "type": "file",
+          "content": "Добро пожаловать в Def File Manager!"
+        },
+        {
+          "name": "manual.txt",
+          "type": "file",
+          "content": "Это тестовый файл для демонстрации."
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "type": "folder",
+      "children": [
+        {
+          "name": "logo.png",
+          "type": "file",
+          "content": "Файл-иконка (виртуальный)"
+        }
+      ]
+    }
+  ]
+}
